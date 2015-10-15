@@ -36,8 +36,8 @@
       <file leaf-file-name="text-formatting.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/text-formatting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42857143">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.3809524">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -148,7 +148,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="831" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="editor.config.accepted" value="true" />
     <property name="SearchEverywhereHistoryKey" value="todo&#9;ACTION&#9;ActivateTODOToolWindow" />
@@ -265,7 +265,19 @@
       <option name="project" value="LOCAL" />
       <updated>1444916034161</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ignore .idea folder">
+      <created>1444916068043</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1444916068043</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ignore .idea folder">
+      <created>1444916348527</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1444916348527</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -309,11 +321,11 @@
     <MESSAGE value="HTML elements page" />
     <MESSAGE value="Styles pages" />
     <MESSAGE value="update style page" />
-    <MESSAGE value="ignore .idea folder" />
     <MESSAGE value="update syles page" />
     <MESSAGE value="Text formatting page" />
     <MESSAGE value="ignored files" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignored files" />
+    <MESSAGE value="ignore .idea folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore .idea folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -366,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/text-formatting.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42857143">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.3809524">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
         </state>
       </provider>
