@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05739350-86db-4228-b851-13bb407e8ae1" name="Default" comment="ignore .idea folder" />
-    <list id="618419c5-00b9-42fd-95cd-6c10a778d59f" name="ignored files" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="05739350-86db-4228-b851-13bb407e8ae1" name="Default" comment="ignore .idea folder">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML_Samples.iws" />
@@ -196,7 +194,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="05739350-86db-4228-b851-13bb407e8ae1" name="Default" comment="" />
-      <changelist id="618419c5-00b9-42fd-95cd-6c10a778d59f" name="ignored files" comment="" />
+      <changelist id="" name="ignored files" comment="" />
       <created>1444911322058</created>
       <option name="number" value="Default" />
       <updated>1444911322058</updated>
@@ -261,7 +259,13 @@
       <option name="project" value="LOCAL" />
       <updated>1444915959192</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ignored files">
+      <created>1444916034161</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1444916034161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -308,7 +312,8 @@
     <MESSAGE value="ignore .idea folder" />
     <MESSAGE value="update syles page" />
     <MESSAGE value="Text formatting page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text formatting page" />
+    <MESSAGE value="ignored files" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignored files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
